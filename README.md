@@ -2,7 +2,7 @@
 
 A quickly written program to spam Russian Government websites and related websites
 
-Written as a response to https://stop-russian-desinformation.near.page/, these sites suffer from a certain flaw in web browsers which limits the number of active connections to 4.
+Written as a response to https://stop-russian-desinformation.near.page/, these sites suffer from a certain limitation in web browsers which limits the number of active connections to 4.
 
 # Usage
 
