@@ -1,6 +1,6 @@
 # Spamrurs
 
-A quickly written program to spam Russian Government websites and related websites
+A quickly written program to spam Russian Government websites and related websites, use at your own risk, might be illegal depending on the country you are from
 
 Written as a response to https://stop-russian-desinformation.near.page/, these sites suffer from a certain limitation in web browsers which limits the number of active connections to 4.
 
